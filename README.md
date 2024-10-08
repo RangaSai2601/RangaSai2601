@@ -2,7 +2,8 @@
 - 👀 I’m interested in Java Development and Technolgies related to it
 - 🌱 I’ve learnt Spring JPA, Spring Boot, Spring JDBC, Spring MVC.
 - 💞️ I’m looking to collaborate on web development (Full Stack Projects)
-- I'm currently Studying Final Year (B-Tech) in ECE at NIT Hamirpur.
+- I have completed (B-Tech) in ECE at NIT Hamirpur.
+- Presntly working as a SDE at @InfoEdge (Zwayam)
 - 📫 How to reach me 
 - You can mail me at @ namburirangasai@gmail.com
 - Intersted in Open source Projects
